@@ -1,4 +1,5 @@
 // backend/controllers/projectController.js
+// This is projectController.js file it manages projects logic
 
 const Project = require("../models/projectModel");
 
